@@ -23,6 +23,6 @@
 
 # Go workspace file
 go.work
-*_test.go
+hello_test.go
 
 # End of https://www.toptal.com/developers/gitignore/api/go
