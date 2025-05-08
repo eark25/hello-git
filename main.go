@@ -12,5 +12,5 @@ func Add(x, y int) int {
 }
 
 func Rebase() {
-	fmt.Println("Rebasing")
+	fmt.Println("Rebasing...")
 }
